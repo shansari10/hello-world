@@ -1,3 +1,5 @@
+//this is testing comments
+
 let x= 20;
 let y=10
  function add(x,y){
@@ -5,4 +7,3 @@ let y=10
  }
 add();
 
-//this is testing comments
